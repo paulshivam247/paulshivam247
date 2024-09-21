@@ -5,14 +5,14 @@ This repository contains a comprehensive financial analysis for AtliQ Hardware, 
 
 ## Reports Included
 1. Profit and Loss Statements
-   - Yearly
-   - Quarterly
-2. Profit and Loss by Market
-3. Quarterly Gross Margin Percentage
-4. Customer Performance Report
-5. Market Performance vs Target Report
-6. Top 10 Products Analysis
-7. New Product Launches Report
+   - Yearly (https://github.com/paulshivam247/paulshivam247/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20Year.pdf)
+   - Quarterly (https://github.com/paulshivam247/paulshivam247/blob/main/P%20%26%20L%20Statement%20by%20Quarter.pdf)
+2. Profit and Loss by Market (https://github.com/paulshivam247/paulshivam247/blob/main/P%20%26%20L%20Statement%20by%20Markets.pdf)
+3. Quarterly Gross Margin Percentage (https://github.com/paulshivam247/paulshivam247/blob/main/Gross%20Margin%25%20by%20Quarter.pdf)
+4. Customer Performance Report (https://github.com/paulshivam247/paulshivam247/blob/main/Customer%20Performance%20Report.pdf)
+5. Market Performance vs Target Report (https://github.com/paulshivam247/paulshivam247/blob/main/Performance%20vs%20Target%20Report.pdf)
+6. Top 10 Products Analysis (https://github.com/paulshivam247/paulshivam247/blob/main/Top%2010%20Products.pdf)
+7. New Product Launches Report (https://github.com/paulshivam247/paulshivam247/blob/main/New%20Product%20Launched.pdf)
 
 ## Technical Skills Demonstrated
 - ETL (Extract, Transform, Load) methodology
