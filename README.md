@@ -1,53 +1,13 @@
-# AtliQ Hardware Financial Analysis
+About Me
 
-## Project Overview
-This repository contains a comprehensive financial analysis for AtliQ Hardware, a company specializing in Apple product sales. The analysis includes various reports and visualizations based on customer, market, product, and sales data.
+I have a PGDM in Marketing & Finance from MSM and began my career at ICICI Securities as a Senior Relationship Manager, where I developed a strong understanding of financial products, investment strategies, and customer relationship management.
 
-## Reports Included
-1. Profit and Loss Statements
-   - Yearly (https://github.com/paulshivam247/paulshivam247/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20Year.pdf)
-   - Quarterly (https://github.com/paulshivam247/paulshivam247/blob/main/P%20%26%20L%20Statement%20by%20Quarter.pdf)
-2. Profit and Loss by Market (https://github.com/paulshivam247/paulshivam247/blob/main/P%20%26%20L%20Statement%20by%20Markets.pdf)
-3. Quarterly Gross Margin Percentage (https://github.com/paulshivam247/paulshivam247/blob/main/Gross%20Margin%25%20by%20Quarter.pdf)
-4. Customer Performance Report (https://github.com/paulshivam247/paulshivam247/blob/main/Customer%20Performance%20Report.pdf)
-5. Market Performance vs Target Report (https://github.com/paulshivam247/paulshivam247/blob/main/Performance%20vs%20Target%20Report.pdf)
-6. Top 10 Products Analysis (https://github.com/paulshivam247/paulshivam247/blob/main/Top%2010%20Products.pdf)
-7. New Product Launches Report (https://github.com/paulshivam247/paulshivam247/blob/main/New%20Product%20Launched.pdf)
+In late 2018, I took a break from corporate life due to personal reasons, but I used this time to deepen my understanding of financial markets. I transitioned into derivatives trading, specializing in options and delta-neutral strategies, which helped me generate consistent returns even in volatile conditions. Through this experience, I honed my skills in data-driven decision-making, risk management, and market analytics.
 
-## Technical Skills Demonstrated
-- ETL (Extract, Transform, Load) methodology
-- Date table generation using Power Query
-- Fiscal month and quarter derivation
-- Data model relationship establishment with Power Pivot
-- Integration of supplementary data into existing data models
-- DAX utilization for calculated columns
+As markets evolved, I adapted my strategies, gaining deep insights into volatility, liquidity, and quantitative trading methods. This journey naturally led me to develop expertise in data analytics, using tools like Excel, Power BI, SQL, and Python to analyze financial trends and optimize trading strategies.
 
-## Soft Skills Developed
-- In-depth understanding of Sales & Finance Reports
-- User-centric report design with an empathetic approach
-- Report generation optimization through fine-tuning
-- Systematic approach to report building planning
+Now, I am looking to transition into a Data Analyst role across industries, where I can leverage my analytical skills, market experience, and data-driven approach to derive actionable insights, optimize decision-making, and contribute to business growth.
 
-## Tools Used
-- Microsoft Excel
-- Power Query
-- Power Pivot
-- DAX (Data Analysis Expressions)
+🔹 Key Skills: Data Analytics | Financial Markets | Power BI | SQL | Python | Trading Strategies | Risk Management | Market Research
 
-## Methodology
-The analysis process involved:
-1. Extracting and transforming data using Power Query
-2. Creating a robust data model in Power Pivot
-3. Developing calculated columns and measures using DAX
-4. Designing user-friendly reports with a focus on clarity and insights
-
-## How to Use
-Each report is available as a separate PDF file in this repository. To view a report:
-1. Click on the desired report file
-2. GitHub will display a preview, or you can download the PDF for a detailed view
-
-## Contact
-For any queries regarding this analysis, please contact [Shib Sankar Paul] via GitHub.
-
----
-© 2023 | AtliQ Hardware Financial Analysis Project
+🔹 Looking for: Roles in financial data analysis, investment analytics, and quantitative research
